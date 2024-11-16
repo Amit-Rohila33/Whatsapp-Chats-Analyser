@@ -1,9 +1,0 @@
-urlextract
-wordcloud
-openai
-faker
-pandas
-emoji
-seaborn
-streamlit
-matplotlib
