@@ -34,4 +34,5 @@ This project helps you analyze WhatsApp chat files by determining whether messag
 ## Notes
 
 - The analysis can take some time, as the app fetches data from the OpenAI API, especially to determine the originality or forwarded status of the messages.
+- In app.py file, please update your OpenAI API key
   
