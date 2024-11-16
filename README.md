@@ -6,6 +6,9 @@ This project helps you analyze WhatsApp chat files by determining whether messag
 ## Installation
 
 1. Clone the repository to your local machine.
+  ```bash
+   git clone https://github.com/Amit-Rohila33/Whatsapp-Chats-Analyser.git
+   ```
 2. Install the required Python packages by running:
 
    ```bash
