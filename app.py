@@ -23,7 +23,7 @@ if uploaded_file is not None:
     data = bytes_data.decode("utf-8")
 
     # Add your OpenAI API key here
-    api_key = ""
+    api_key = process.env.OPENAI
 
     # Preprocess data using the modified preprocessor
     df = preprocessor.preprocess(data, api_key)
